@@ -1,0 +1,2 @@
+# covid19extension
+一个可获取不同国家新型冠状病毒肺炎-covid19案例的信息的chrome插件
